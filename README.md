@@ -10,4 +10,4 @@ You can reach me via Twitter DMs or Github
 @hitorilabs on github, twitter
 </pre>
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/hitorilabs/hitorilabs/assets/131238467/47d8698a-0a47-4531-a830-6e395dfd5ceb');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/hitorilabs/hitorilabs/assets/131238467/d7443538-5f95-4212-a7bf-952a20700474');]{x0000}$}
